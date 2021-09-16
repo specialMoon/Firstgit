@@ -1,1 +1,2 @@
 # Firstgit
+print("Firstgit！")
